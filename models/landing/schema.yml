@@ -8,3 +8,7 @@ models:
     - name: customer
       description: "swathy"
 
+
+    - name: order
+      description: "swathy"
+
